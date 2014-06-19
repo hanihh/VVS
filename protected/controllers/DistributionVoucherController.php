@@ -27,6 +27,25 @@ class DistributionVoucherController extends GxController {
 
 		$this->render('create', array( 'model' => $model));
 	}
+        
+        public function actionCreateWithoutValidation() {
+		$model = new DistributionVoucher;
+
+		//$this->performAjaxValidation($model, 'distribution-voucher-form');
+
+		if (isset($_POST['DistributionVoucher'])) {
+                    $model->setAttributes($_POST['DistributionVoucher']);
+
+                    if ($model->save()) {
+                        if (Yii::app()->getRequest()->getIsAjaxRequest())
+                            Yii::app()->end();
+                        else
+                            $this->redirect(array('view', 'id' => $model->id));
+                    }
+		}
+
+		$this->render('create', array( 'model' => $model));
+	}
 
 	public function actionUpdate($id) {
 		$model = $this->loadModel($id, 'DistributionVoucher');

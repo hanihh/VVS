@@ -13,42 +13,42 @@
 		<?php echo Yii::t('app', 'Fields with'); ?> <span class="required">*</span> <?php echo Yii::t('app', 'are required'); ?>.
 	</p>
 
-	<?php echo $form->errorSummary($model); ?>
+	<?php echo $form->errorSummary($distribution); ?>
                 <div class="row">
-		<?php echo $form->labelEx($model,'program_id'); ?>
-		<?php echo $form->dropDownList($model, 'program_id', GxHtml::listDataEx(Program::model()->findAllAttributes(null, true))); ?>
-		<?php echo $form->error($model,'program_id'); ?>
+		<?php echo $form->labelEx($distribution,'program_id'); ?>
+		<?php echo $form->dropDownList($distribution, 'program_id', GxHtml::listDataEx(Program::model()->findAllAttributes(null, true))); ?>
+		<?php echo $form->error($distribution,'program_id'); ?>
 		</div><!-- row -->
 		<div class="row">
-		<?php echo $form->labelEx($model,'code'); ?>
-		<?php echo $form->textField($model, 'code', array('maxlength' => 10)); ?>
-		<?php echo $form->error($model,'code'); ?>
+		<?php echo $form->labelEx($distribution,'code'); ?>
+		<?php echo $form->textField($distribution, 'code', array('maxlength' => 10)); ?>
+		<?php echo $form->error($distribution,'code'); ?>
 		</div><!-- row -->
 		<div class="row">
-		<?php echo $form->labelEx($model,'start_date'); ?>
+		<?php echo $form->labelEx($distribution,'start_date'); ?>
 		<?php Yii::import('application.extensions.CJuiDateTimePicker.CJuiDateTimePicker');
                 $this->widget('CJuiDateTimePicker',array(
-                    'model'=>$model, //Model object
+                    'model'=>$distribution, //Model object
                     'attribute'=>'start_date', //attribute name
                     'mode'=>'date', //use "time","date" or "datetime" (default)
                     'language' => '',
                     'options'=>array("dateFormat"=>'yy-mm-dd') // jquery plugin options
                 ));
                  ?>
-		<?php echo $form->error($model,'start_date'); ?>
+		<?php echo $form->error($distribution,'start_date'); ?>
 		</div><!-- row -->
 		<div class="row">
-		<?php echo $form->labelEx($model,'end_date'); ?>
+		<?php echo $form->labelEx($distribution,'end_date'); ?>
 		<?php 
                 $this->widget('CJuiDateTimePicker',array(
-                    'model'=>$model, //Model object
+                    'model'=>$distribution, //Model object
                     'attribute'=>'end_date', //attribute name
                     'mode'=>'date', //use "time","date" or "datetime" (default)
                     'language' => '',
                     'options'=>array("dateFormat"=>'yy-mm-dd') // jquery plugin options
                 ));
                  ?>
-		<?php echo $form->error($model,'end_date'); ?>
+		<?php echo $form->error($distribution,'end_date'); ?>
 		</div><!-- row -->
                 
                 <?php
@@ -98,14 +98,14 @@
                 
                 ?>
 		<div class="row">
-		<?php echo $form->labelEx($model,'region_id'); ?>
-		<?php echo $form->dropDownList($model, 'region_id', array(), array('empty'=>'-- Select Community --',)); ?>
-		<?php echo $form->error($model,'region_id'); ?>
+		<?php echo $form->labelEx($distribution,'region_id'); ?>
+		<?php echo $form->dropDownList($distribution, 'region_id', array(), array('empty'=>'-- Select Community --',)); ?>
+		<?php echo $form->error($distribution,'region_id'); ?>
 		</div><!-- row -->
 		<div class="row">
-		<?php echo $form->labelEx($model,'status_id'); ?>
-		<?php echo $form->dropDownList($model, 'status_id', GxHtml::listDataEx(DistributionStatus::model()->findAllAttributes(null, true))); ?>
-		<?php echo $form->error($model,'status_id'); ?>
+		<?php echo $form->labelEx($distribution,'status_id'); ?>
+		<?php echo $form->dropDownList($distribution, 'status_id', GxHtml::listDataEx(DistributionStatus::model()->findAllAttributes(null, true))); ?>
+		<?php echo $form->error($distribution,'status_id'); ?>
 		</div><!-- row -->
 <?php
 $this->endWidget();

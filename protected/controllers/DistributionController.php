@@ -27,6 +27,27 @@ class DistributionController extends GxController {
 
 		$this->render('create', array( 'model' => $model));
 	}
+        
+        public function actionCreateWithoutValidation() {
+		$model = new Distribution;
+
+		//$this->performAjaxValidation($model, 'distribution-form');
+
+		if (isset($_POST['Distribution'])) {
+			$model->setAttributes($_POST['Distribution']);
+
+			if ($model->save()) {
+				if (Yii::app()->getRequest()->getIsAjaxRequest()){
+                                    echo $model->id;
+                                    Yii::app()->end();
+                                }
+                                else
+					$this->redirect(array('view', 'id' => $model->id));
+			}
+		}
+
+		$this->render('create', array( 'model' => $model));
+	}
 
 	public function actionUpdate($id) {
 		$model = $this->loadModel($id, 'Distribution');

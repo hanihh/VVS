@@ -1,14 +1,6 @@
 <?php
 
-$this->breadcrumbs = array(
-	$model->label(2) => array('voucher'),
-	Yii::t('app', 'Generate Vouchers'),
-);
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 if (isset($_POST)&& (!empty($_POST))) {
     echo '<div class="flash-success">Saved...</div>';
 
@@ -48,9 +40,8 @@ echo CHtml::dropDownList(
 //$model = new Beneficiary();
 $this->widget('zii.widgets.grid.CGridView', array(
 	'id' => 'beneficiary-grid',
-	'dataProvider' => $model->searchForVoucherAssignment(),
-	'filter' => $model,
-        'ajaxUpdate' => 'beneficiary-grid',
+	'dataProvider' => $beneficiary->search(),
+	'filter' => $beneficiary,
 	'columns' => array(
                 'id',
 		'registration_code',
@@ -72,3 +63,5 @@ $this->widget('zii.widgets.grid.CGridView', array(
 
 echo GxHtml::submitButton(Yii::t('app', 'Save'));
 $this->endWidget();
+
+?>

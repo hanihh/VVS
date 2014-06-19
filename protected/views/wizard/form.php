@@ -1,8 +1,7 @@
-
 <?php
 $distribution = Distribution::model();
 $DistributionVoucher = DistributionVoucher::model();
-
+$beneficiary = Beneficiary::model();
 
 $this->widget("ext.smartwizard.smartWizard",array(
                "onFinish"=>'onFinishCallback',
@@ -12,17 +11,17 @@ $this->widget("ext.smartwizard.smartWizard",array(
                   array(
                      "StepTitle"=>"Distribution Defination",
                      "stepDetails"=>"Choose the distribution basic information.",                    
-                     "content"=>$this->renderPartial("//distribution/wizard_form",array('model' => $model),true,false)
+                     "content"=>$this->renderPartial("//distribution/wizard_form",array('distribution' => $distribution),true,false)
                      ),
                    array(
-                     "StepTitle"=>"Distribution Select.",
-                     "stepDetails"=>"Enter distribution information",                    
-                     "content"=>$this->renderPartial("Distribution",array(),true,false)
+                     "StepTitle"=>"Distribution Vouchers",
+                     "stepDetails"=>"Select distribution vouchers",                    
+                     "content"=>$this->renderPartial("//distributionvoucher/wizard_form",array('DistributionVoucher' => $DistributionVoucher),true,false)
                      ),
                    array(
-                     "StepTitle"=>"Define Voucher Type",
-                     "stepDetails"=>"Fill your Profile details",                    
-                     "content"=>$this->renderPartial("Distribution",array(),true,false)
+                     "StepTitle"=>"Choose Beneficiaries",
+                     "stepDetails"=>"Choose The Eligible Beneficiaries",                    
+                     "content"=>$this->renderPartial("//voucher/generatewizard",array('beneficiary' => $beneficiary),true,false)
                      ),
                    array(
                      "StepTitle"=>"Define Voucher Type",
@@ -74,9 +73,24 @@ $this->widget("ext.smartwizard.smartWizard",array(
         var isStepValid = true;
         // validate step 1
         switch (stepnumber) { 
-            case 1:
-                
-            break;    
+            case "1":
+                var data=$("#distribution-form").serialize();
+                $.ajax({
+                type: "POST",
+                url:    "<? echo Yii::app()->createUrl('distribution/Createwithoutvalidation'); ?>",
+                data: data,
+                success: function(msg){
+                     $("#DistributionVoucher_distribution_id").val(msg);
+                    },
+                error: function(xhr){
+                alert("failure"+xhr.readyState+this.url)
+
+                }
+              });
+            break;   
+            case "2": 
+            break;
+            
             }
             
           // Your step validation logic
@@ -89,5 +103,24 @@ $this->widget("ext.smartwizard.smartWizard",array(
         return isStepValid;
       }                    
       
+      $("#btnsave").click(function(){
+          var data=$("#distribution-voucher-form").serialize();
+          alert(data);
+          $.ajax({
+                type: "POST",
+                url:    "<? echo Yii::app()->createUrl('distributionvoucher/Createwithoutvalidation'); ?>",
+                data: data,
+                success: function(msg){
+                    alert(":)");
+                    $("#DistributionVoucher_code").val("");
+                    //$("#DistributionVoucher_code").val("");
+                     //$("#DistributionVoucher_distribution_id").val(msg);
+                    },
+                error: function(xhr){
+                alert("failure"+xhr.readyState+this.url)
+
+                }
+              });
+      });
   });
 </script>

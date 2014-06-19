@@ -108,7 +108,7 @@ class smartWizard extends CWidget {
             //the css to use
             $this->styles=$assets. '/styles/smart_wizard_vertical.css';
 				//Yii::app() ->clientScript -> registerCssFile($baseUrl . '/styles/smart_wizard.css', CClientScript::POS_HEAD);	
-			    Yii::app() ->getClientScript() -> registerScriptFile($baseUrl . "/js/jquery.smartWizard-2.0.min.js", CClientScript::POS_END);
+			    Yii::app() ->getClientScript() -> registerScriptFile($baseUrl . "/js/jquery.smartWizard-2.0.js", CClientScript::POS_END);
 				/*Yii::app() ->getClientScript() -> registerScript('initSmartwizard','
 			 $(document).ready(function(){
 				$("'.$this->selector.'").smartWizard({ 
