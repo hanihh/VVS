@@ -18,6 +18,7 @@
 		<?php echo $form->textField($DistributionVoucher, 'code', array('maxlength' => 10)); ?>
 		<?php echo $form->error($DistributionVoucher,'code'); 
                 echo $form->hiddenField($DistributionVoucher, 'distribution_id');
+
                 ?>
 		</div><!-- row -->
 		<div class="row">
@@ -37,7 +38,23 @@
 		<?php echo $form->error($DistributionVoucher,'expiration_date'); ?>
 		</div><!-- row -->
 <?php
-echo "<input type='button' name='btnsave' id='btnsave' value='Save and add another' onclick='savedistributionvoucher'";
+echo "<input type='button' name='btnsave' id='btnsavedistributionvoucher' value='Save and add another' />";
+
+$this->widget('zii.widgets.grid.CGridView', array(
+	'id' => 'distribution-voucher-grid',
+	'dataProvider' => $DistributionVoucher->searchForVoucherAssignment(),
+	'columns' => array(
+            'code',
+            array(
+                'name'=>'distribution_id',
+                'value'=>'GxHtml::valueEx($data->distribution)',
+                ),
+            array(
+                'name'=>'type_id',
+                'value'=>'GxHtml::valueEx($data->type)',
+                ),
+	),
+));
 //GxHtml::submitButton(Yii::t('app', 'Save and add another'));
 $this->endWidget();
 ?>

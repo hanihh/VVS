@@ -12823,3 +12823,1744 @@ Stack trace:
 REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
 HTTP_REFERER=http://localhost/voucher_system/wizard
 ---
+2014/06/19 08:54:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 08:54:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 08:56:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 09:32:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 09:35:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 09:55:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 09:57:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:13:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:17:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:19:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:20:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:21:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:22:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard?Beneficiary%5Bid%5D=&Beneficiary%5Bregistration_code%5D=&Beneficiary%5Bar_name%5D=&Beneficiary%5Ben_name%5D=&Beneficiary%5Bfamily_member%5D=&Beneficiary%5Bmain_income_source%5D=Support+from+other%2FDonation&Beneficiary%5Bcombine_household%5D=&Beneficiary_page=1&ajax=beneficiary-grid&distribution_id=22
+---
+2014/06/19 10:25:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:27:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:29:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:31:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/19 10:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/19 10:35:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:36:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:36:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:43:51 [error] [php] Undefined variable: model (C:\xampp\htdocs\voucher_system\protected\views\voucher\generate.php:4)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): WizardController->renderFile()
+#1 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(25): WizardController->renderPartial()
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): WizardController->renderInternal()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(869): WizardController->renderFile()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(782): WizardController->renderPartial()
+#6 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): WizardController->render()
+#7 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(286): WizardController->runAction()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(265): WizardController->runActionWithFilters()
+#11 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): WizardController->run()
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#13 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/wizard
+in C:\xampp\htdocs\voucher_system\protected\views\voucher\generate.php (4)
+in C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php (25)
+in C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php (39)
+2014/06/19 10:44:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:45:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:48:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:50:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 10:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:15:10 [error] [exception.CException] exception 'CException' with message 'WizardController contains improperly nested widget tags in its view "C:\xampp\htdocs\voucher_system\protected\views//distribution/wizard_form.php". A GxActiveForm widget does not have an endWidget() call.' in C:\xampp\htdocs\yii\framework\web\CBaseController.php:101
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#1 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(14): CController->renderPartial('//distribution/...', Array, true, false)
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', NULL, true)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', NULL, true)
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('form', NULL, true)
+#6 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): CController->render('form')
+#7 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('wizard')
+#13 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#15 {main}
+REQUEST_URI=/voucher_system/wizard
+---
+2014/06/19 11:15:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:16:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:18:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:19:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:20:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:20:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 11:21:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:00:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:01:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:01:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:02:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:08:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:12:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:14:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:15:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:17:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:25:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:30:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:30:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:31:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:31:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:32:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:40:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:40:42 [error] [exception.CException] exception 'CException' with message 'WizardController has an extra endWidget() call in its view.' in C:\xampp\htdocs\yii\framework\web\CBaseController.php:210
+Stack trace:
+#0 C:\xampp\htdocs\voucher_system\protected\views\distributionVoucher\wizard_form.php(63): CBaseController->endWidget()
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#4 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(19): CController->renderPartial('//distributionv...', Array, true, false)
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', NULL, true)
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', NULL, true)
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('form', NULL, true)
+#9 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): CController->render('form')
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#12 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#15 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('wizard')
+#16 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/voucher_system/wizard
+---
+2014/06/19 12:40:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:41:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:42:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:43:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:43:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:44:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:45:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:45:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:45:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:46:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:46:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:48:23 [error] [exception.CException] exception 'CException' with message 'WizardController contains improperly nested widget tags in its view "C:\xampp\htdocs\voucher_system\protected\views//distribution/wizard_form.php". A GxActiveForm widget does not have an endWidget() call.' in C:\xampp\htdocs\yii\framework\web\CBaseController.php:101
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#1 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(14): CController->renderPartial('//distribution/...', Array, true, false)
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', NULL, true)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', NULL, true)
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('form', NULL, true)
+#6 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): CController->render('form')
+#7 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('wizard')
+#13 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#15 {main}
+REQUEST_URI=/voucher_system/wizard
+---
+2014/06/19 12:48:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:49:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 12:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 14:25:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 14:58:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:01:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:08:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:09:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:11:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:11:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:15:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:20:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:20:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:27:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:28:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:29:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:29:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:31:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:32:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:37:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:38:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:45:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:47:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:48:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:50:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:50:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 15:59:50 [error] [exception.CException] exception 'CException' with message 'Property "DistributionVoucher.value" is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:130
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(145): CComponent->__get('value')
+#1 C:\xampp\htdocs\voucher_system\protected\models\DistributionVoucher.php(18): CActiveRecord->__get('value')
+#2 C:\xampp\htdocs\voucher_system\protected\views\distributionVoucher\wizard_form.php(43): DistributionVoucher->searchForVoucherAssignment()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#6 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(19): CController->renderPartial('//distributionv...', Array, true, false)
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', NULL, true)
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', NULL, true)
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('form', NULL, true)
+#11 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): CController->render('form')
+#12 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#13 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('wizard')
+#18 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#19 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#20 {main}
+REQUEST_URI=/voucher_system/wizard
+---
+2014/06/19 16:17:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 16:20:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 16:28:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 16:32:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 16:34:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/19 16:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 09:12:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 09:14:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 09:20:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 09:21:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 09:55:53 [error] [php] Undefined variable: DistributionVoucher (C:\xampp\htdocs\voucher_system\protected\views\voucher\generateWizard.php:18)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(869): WizardController->renderFile()
+#1 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(24): WizardController->renderPartial()
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): WizardController->renderInternal()
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(869): WizardController->renderFile()
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(782): WizardController->renderPartial()
+#6 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): WizardController->render()
+#7 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 C:\xampp\htdocs\yii\framework\web\CController.php(286): WizardController->runAction()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(265): WizardController->runActionWithFilters()
+#11 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): WizardController->run()
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#13 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/wizard
+in C:\xampp\htdocs\voucher_system\protected\views\voucher\generateWizard.php (18)
+in C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php (24)
+in C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php (39)
+2014/06/20 09:57:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 10:03:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 10:08:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:10:02 [error] [php] Array to string conversion (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:82)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (82)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:10:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 10:20:33 [error] [php] Use of undefined constant console - assumed 'console' (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:83)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (83)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:21:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 10:21:19 [error] [php] Use of undefined constant console - assumed 'console' (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:83)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (83)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:21:41 [error] [php] Use of undefined constant console - assumed 'console' (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:83)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (83)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:28:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:32:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:32:36 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (130)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:32:36 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(130): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:33:12 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (130)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:33:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(130): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:37:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:38:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:38:38 [error] [php] Undefined index: beneficiary-grid_c7 (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:104)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (104)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:39:08 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (134)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:39:08 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(134): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:39:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:50:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 10:55:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:55:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 10:57:56 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (137)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:57:56 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(137): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:58:28 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (137)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:58:28 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(137): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:58:31 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (137)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:58:31 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(137): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 10:59:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/admin
+---
+2014/06/20 10:59:27 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (137)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 10:59:27 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(137): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:00:01 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW()).
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (137)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 11:00:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'aaaaaaaaaa' for key 'code_un'. The SQL statement executed was: INSERT INTO `voucher` (`code`, `distribution_voucher_id`, `ben_id`, `status_id`, `create_date`) VALUES (:yp0, :yp1, :yp2, :yp3, NOW())' in C:\xampp\htdocs\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php(137): CActiveRecord->insert()
+#2 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): VoucherController->actionGenerate()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('generate')
+#7 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('voucher/generat...')
+#8 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#10 {main}
+REQUEST_URI=/voucher_system/voucher/generate
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:02:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:02:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:02:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 11:05:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:05:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:12:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:12:06 [error] [exception.CException] exception 'CException' with message 'Property "CGridView.allowpagination" is not defined.' in C:\xampp\htdocs\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWidgetFactory.php(161): CComponent->__set('allowpagination', 'false')
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(WizardController), 'zii.widgets.gri...', Array)
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(172): CBaseController->createWidget('zii.widgets.gri...', Array)
+#3 C:\xampp\htdocs\voucher_system\protected\views\voucher\generateWizard.php(43): CBaseController->widget('zii.widgets.gri...', Array)
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#7 C:\xampp\htdocs\voucher_system\protected\views\wizard\form.php(24): CController->renderPartial('//voucher/gener...', Array, true, false)
+#8 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', NULL, true)
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', NULL, true)
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(782): CController->renderPartial('form', NULL, true)
+#12 C:\xampp\htdocs\voucher_system\protected\controllers\WizardController.php(39): CController->render('form')
+#13 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): WizardController->actionIndex()
+#14 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#16 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('')
+#18 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('wizard')
+#19 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#20 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#21 {main}
+REQUEST_URI=/voucher_system/wizard
+---
+2014/06/20 11:13:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:13:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 11:13:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:13:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 11:14:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:15:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:15:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 11:20:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:20:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 11:20:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/voucher/generate
+---
+2014/06/20 13:53:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 14:06:58 [error] [php] Undefined index: Beneficiary (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:103)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (103)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 14:07:56 [error] [php] Undefined index: Beneficiary (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:103)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (103)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 14:08:40 [error] [php] Undefined variable: criteria_string (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:109)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (109)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 14:09:45 [error] [php] Undefined variable: criteria_string (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:109)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (109)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 14:10:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 14:11:06 [error] [php] Undefined variable: criteria_string (C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php:109)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CController.php(286): VoucherController->runAction()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(265): VoucherController->runActionWithFilters()
+#2 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): VoucherController->run()
+#3 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\voucher_system\index.php(15): CWebApplication->run()
+REQUEST_URI=/voucher_system/voucher/generate
+in C:\xampp\htdocs\voucher_system\protected\controllers\VoucherController.php (109)
+in C:\xampp\htdocs\voucher_system\index.php (15)
+2014/06/20 14:11:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 14:20:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/voucher_system/Vendor
+---
+2014/06/20 14:27:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard
+---
+2014/06/20 14:27:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/shadow_dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/shadow_d...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\voucher_system\index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/voucher_system/themes/shadow_dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/voucher_system/wizard/
+---

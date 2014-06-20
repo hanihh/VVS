@@ -1,7 +1,7 @@
 <?php
 $distribution = Distribution::model();
 $DistributionVoucher = DistributionVoucher::model();
-$beneficiary = Beneficiary::model();
+
 
 $this->widget("ext.smartwizard.smartWizard",array(
                "onFinish"=>'onFinishCallback',
@@ -21,7 +21,7 @@ $this->widget("ext.smartwizard.smartWizard",array(
                    array(
                      "StepTitle"=>"Choose Beneficiaries",
                      "stepDetails"=>"Choose The Eligible Beneficiaries",                    
-                     "content"=>$this->renderPartial("//voucher/generatewizard",array('beneficiary' => $beneficiary),true,false)
+                     "content"=>$this->renderPartial("//voucher/generatewizard",array(),true,false)
                      ),
                    array(
                      "StepTitle"=>"Define Voucher Type",
@@ -75,18 +75,24 @@ $this->widget("ext.smartwizard.smartWizard",array(
         switch (stepnumber) { 
             case "1":
                 var data=$("#distribution-form").serialize();
+                if ($('input[id="Distribution_code"').val() != '') {
                 $.ajax({
                 type: "POST",
                 url:    "<? echo Yii::app()->createUrl('distribution/Createwithoutvalidation'); ?>",
                 data: data,
                 success: function(msg){
-                     $("#DistributionVoucher_distribution_id").val(msg);
+                     $('input[id="distribution_id"').val(msg);
+                     $.fn.yiiGridView.update('beneficiary-grid', {
+                        data: {distribution_id : msg}
+                     });
                     },
                 error: function(xhr){
                 alert("failure"+xhr.readyState+this.url)
 
                 }
               });
+              }
+              $('input[id="DistributionVoucher_distribution_id"').val($('input[id="distribution_id"').val());
             break;   
             case "2": 
             break;
@@ -103,16 +109,37 @@ $this->widget("ext.smartwizard.smartWizard",array(
         return isStepValid;
       }                    
       
-      $("#btnsave").click(function(){
+      $("#btnsavedistributionvoucher").click(function(){
           var data=$("#distribution-voucher-form").serialize();
-          alert(data);
           $.ajax({
                 type: "POST",
                 url:    "<? echo Yii::app()->createUrl('distributionvoucher/Createwithoutvalidation'); ?>",
                 data: data,
                 success: function(msg){
-                    alert(":)");
                     $("#DistributionVoucher_code").val("");
+                    $.fn.yiiGridView.update('distribution-voucher-grid', {
+                            data: {distribution_id: $("#DistributionVoucher_distribution_id").val()}
+                    });
+                    //$("#DistributionVoucher_code").val("");
+                     //$("#DistributionVoucher_distribution_id").val(msg);
+                    },
+                error: function(xhr){
+                alert("failure"+xhr.readyState+this.url)
+
+                }
+              });
+      });
+      
+      $("#btnsavebeneficiaries").click(function(){
+          var data=$("#generate-voucher-form").serialize();
+          $.ajax({
+                type: "POST",
+                url:    "<? echo Yii::app()->createUrl('/voucher/generate'); ?>",
+                data: data,
+                success: function(msg){
+                    $.fn.yiiGridView.update('beneficiary-grid', {
+                            data: {distribution_id: $("#distribution_id").val()}
+                    });
                     //$("#DistributionVoucher_code").val("");
                      //$("#DistributionVoucher_distribution_id").val(msg);
                     },

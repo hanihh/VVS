@@ -7,13 +7,17 @@
 	'id' => 'distribution-form',
 	'enableAjaxValidation' => true,
 ));
-?>
 
+$this->beginWidget('ext.coolfieldset.JCollapsibleFieldset', array(
+        'legend'=>'Create Distribution',
+    ));
+?>
+        
 	<p class="note">
 		<?php echo Yii::t('app', 'Fields with'); ?> <span class="required">*</span> <?php echo Yii::t('app', 'are required'); ?>.
 	</p>
 
-	<?php echo $form->errorSummary($distribution); ?>
+	<?php //echo $form->errorSummary($distribution); ?>
                 <div class="row">
 		<?php echo $form->labelEx($distribution,'program_id'); ?>
 		<?php echo $form->dropDownList($distribution, 'program_id', GxHtml::listDataEx(Program::model()->findAllAttributes(null, true))); ?>
@@ -81,7 +85,7 @@
                     'type'=>'POST', //request type
                     'url'=>CController::createUrl('subdistrict/dynamicsubdistricts'), //url to call.
                     'update'=>'#subdistrict_id', //selector to update
-                    'onchange' => 'alert("hi")'
+                    'onchange' => ''
                     ))
                 );
                 
@@ -107,7 +111,49 @@
 		<?php echo $form->dropDownList($distribution, 'status_id', GxHtml::listDataEx(DistributionStatus::model()->findAllAttributes(null, true))); ?>
 		<?php echo $form->error($distribution,'status_id'); ?>
 		</div><!-- row -->
-<?php
-$this->endWidget();
-?>
-</div><!-- form -->
+        <?php
+        $this->endWidget();
+
+        $this->beginWidget('ext.coolfieldset.JCollapsibleFieldset', array(
+                'legend'=>'Or Choose Existing',
+                'collapsed'=>true,
+
+            ));
+
+        Yii::app()->clientScript->registerScript('distribution_id_list', "
+                $('#distribution_id_list').change(function() {
+                    $('input[id=\"distribution_id\"').val($(this).val());
+                    $('input[id=\"Distribution_code\"').val('');
+                    $.fn.yiiGridView.update('distribution-voucher-grid', {
+                            data: {distribution_id: $(this).val()}
+                    });
+                    $.fn.yiiGridView.update('beneficiary-grid', {
+                            data: {distribution_id: $(this).val()}
+                    });            
+                    return false;
+                });
+            ");
+        echo "Distribution : ";
+        $distributionVousher = new DistributionVoucher();
+        //echo $form->dropDownList($distributionVousher, 'distribution_id', GxHtml::encodeEx(GxHtml::listDataEx(Distribution::model()->findAllAttributes(null, true)), false, true)); 
+
+        $data = CHtml::listData(Distribution::model()->findAll(array("condition"=>"status_id =  2")), 'id', 'code');
+        $select = key($data);
+        echo CHtml::dropDownList(
+            'distribution_id_list',
+            $select,            // selected item from the $data
+            $data,       
+            array(
+                'style'=>'margin-bottom:10px;',
+                'id'=>'distribution_id_list',
+                'options' => array(),
+            )
+        );
+
+        $this->endWidget();
+
+        echo "<input type='hidden' name='distribution_id' id='distribution_id' value='0'>";
+
+        $this->endWidget();
+        ?>
+        </div><!-- form -->

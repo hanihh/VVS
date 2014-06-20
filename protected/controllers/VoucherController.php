@@ -80,7 +80,6 @@ class VoucherController extends GxController {
             $model = new Beneficiary('searchForVoucherAssignment');
             $model->unsetAttributes();
             //print_r($_POST);
-
             if ((isset($_POST)&& !empty($_POST))) {
             $distribution = Distribution::model()->findByPk($_POST['distribution_id']);
             if ($distribution) {
@@ -97,16 +96,30 @@ class VoucherController extends GxController {
                 $criteria2->select='max(id) as max';
                 $voucher = Voucher::model()->find($criteria2);
                 $max = $voucher->max + 1;
+                ini_set('memory_limit', '-1');
+                
+                if ($_POST['beneficiary-grid_c7_all'] == "1") {
+                    $criteria3 = new CDbCriteria;
+                    $model->setAttributes($_POST['Beneficiary']);
+                    $criteria3->compare('registration_code', $model->registration_code, true);
+                    $criteria3->compare('ar_name', $model->ar_name, true);
+                    $criteria3->compare('en_name', $model->en_name, true);
+                    $criteria3->compare('family_member', $model->family_member);
+                    $criteria3->compare('main_income_source', $model->main_income_source, true);
+                    $criteria3->compare('combine_household', $model->combine_household, true);
+                     echo "<script>console.log('".$model."')</script>";
+                } else {
+                    // Getting Associated Beneficiaries List 
+                    //$beneficiaries = Beneficiary::model()->findAll();
+                    $criteria3 = new CDbCriteria;
+                    $criteria_string = "t.id in (0";
+                    foreach ($_POST['beneficiary-grid_c7'] as $ben_id) {
+                        $criteria_string = $criteria_string . ", ".$ben_id;
+                    }
 
-                // Getting Associated Beneficiaries List 
-                //$beneficiaries = Beneficiary::model()->findAll();
-                $criteria3 = new CDbCriteria;
-                $criteria_string = "t.id in (0";
-                foreach ($_POST['beneficiary-grid_c7'] as $ben_id) {
-                    $criteria_string = $criteria_string . ", ".$ben_id;
+                    $criteria_string = $criteria_string . ")";
+                    $criteria3->addCondition($criteria_string);
                 }
-                $criteria_string = $criteria_string . ")";
-                $criteria3->addCondition($criteria_string);
                 $beneficiaries = Beneficiary::model()->findAll($criteria3);
                 $characters = 'abcdefghijklmnopqrstuvwxyz0123456789';
                 $random_string_length = 10;
@@ -119,12 +132,14 @@ class VoucherController extends GxController {
                         if (count($exist) == 0) { 
                             $voucher = new Voucher(); // create voucher 
                             $string = '';
+                            $exist = "";
                             do {
                             for ($i = 0; $i < $random_string_length; $i++) {
                                  $string .= $characters[rand(0, strlen($characters) - 1)];
                             }
                             $exist = Voucher::model()->exists('code =:code', array(":code" => $string));
-                            } while ($exist <> 1);
+                            echo "<script>console.log('".$exist."')</script>";
+                            } while ($exist == "1");
                             //$voucher->code = $distributionVoucher->code."/".sprintf('%05u', $max);
                             $voucher->code = $string;
                             $voucher->distribution_voucher_id = $distributionVoucher->id;

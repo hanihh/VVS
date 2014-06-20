@@ -5,42 +5,22 @@ if (isset($_POST)&& (!empty($_POST))) {
     echo '<div class="flash-success">Saved...</div>';
 
 }
+$beneficiary = new Beneficiary('searchForVoucherAssignment');
+$beneficiary->unsetAttributes();
+if (isset($_GET['Beneficiary']))
+	$beneficiary->setAttributes($_GET['Beneficiary']);
 
 $form = $this->beginWidget('GxActiveForm', array(
 	'id' => 'generate-voucher-form',
 	'enableAjaxValidation' => true,
 ));
+echo "<input type='button' name='btnsave' id='btnsavebeneficiaries' value='Save and add another' />";
 
-Yii::app()->clientScript->registerScript('distribution_id', "
-        $('#distribution_id').change(function() {
-            $.fn.yiiGridView.update('beneficiary-grid', {
-                    data: $(this).serialize()
-            });            
-            return false;
-        });
-    ");
-echo "Distribution : ";
-$distributionVousher = new DistributionVoucher();
-//echo $form->dropDownList($distributionVousher, 'distribution_id', GxHtml::encodeEx(GxHtml::listDataEx(Distribution::model()->findAllAttributes(null, true)), false, true)); 
-
-$data = CHtml::listData(Distribution::model()->findAll(array("condition"=>"status_id =  2")), 'id', 'code');
-$select = key($data);
-echo CHtml::dropDownList(
-    'distribution_id',
-    $select,            // selected item from the $data
-    $data,       
-    array(
-        'style'=>'margin-bottom:10px;',
-        'id'=>'distribution_id',
-        'options' => array('0'=>array('selected'=>true)),
-    )
-);
-
-
+echo CHtml::hiddenField('distribution_id', '',  array('id' => 'distribution_id'));
 //$model = new Beneficiary();
 $this->widget('zii.widgets.grid.CGridView', array(
 	'id' => 'beneficiary-grid',
-	'dataProvider' => $beneficiary->search(),
+	'dataProvider' => $beneficiary->searchForVoucherAssignment(),
 	'filter' => $beneficiary,
 	'columns' => array(
                 'id',
@@ -61,7 +41,6 @@ $this->widget('zii.widgets.grid.CGridView', array(
 	),
     ));
 
-echo GxHtml::submitButton(Yii::t('app', 'Save'));
 $this->endWidget();
 
 ?>

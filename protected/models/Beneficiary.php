@@ -26,7 +26,7 @@ class Beneficiary extends BaseBeneficiary
              return new CActiveDataProvider($this, array(
                 'criteria' => $criteria,
                 'pagination' => array(
-                                    'pageSize' => 50,
+                                    'pageSize' => 20,
                                 ),
             ));
         }
