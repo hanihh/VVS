@@ -9,7 +9,7 @@
                 //$image->render();
                 $image->save(Yii::app()->params['BENEFICIARIES_IMAGES_PATH'].$data->registration_code.'.jpg');
             }   //echo Yii::app()->params['BENEFICIARIES_IMAGES_PATH'];
-            echo "<div style='float:right;'><img src='".Yii::app()->params['BENEFICIARIES_IMAGES_PATH']. $data->registration_code.".jpg'></img></div>";
+            echo "<div style='float:right;'><img src='".Yii::app()->getBaseUrl()."/".Yii::app()->params['BENEFICIARIES_IMAGES_PATH']. $data->registration_code.".jpg'></img></div>";
             ?>
 	<?php echo GxHtml::encode($data->getAttributeLabel('id')); ?>:
 	<?php echo GxHtml::link(GxHtml::encode($data->id), array('view', 'id' => $data->id)); ?>

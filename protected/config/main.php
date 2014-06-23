@@ -37,7 +37,7 @@ return array(
 
 	// application components
 	'components'=>array(
-        'image'=>array(
+                'image'=>array(
                   'class'=>'application.extensions.image.CImageComponent',
                     // GD or ImageMagick
                     'driver'=>'GD',
@@ -101,7 +101,8 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'webmaster@example.com',
-                'BENEFICIARIES_IMAGES_PATH' => "./images/beneficiaries/images/",
-                'BENEFICIARIES_QR_PATH' => "./images/beneficiaries/qrcodes/"
+                'BENEFICIARIES_IMAGES_PATH' => "images/beneficiaries/images/",
+                'BENEFICIARIES_QR_PATH' => "images/beneficiaries/qrcodes/",
+                'VOUCHERS_QR_PATH' => "images/vouchers/qrcodes/"
 	),
 );

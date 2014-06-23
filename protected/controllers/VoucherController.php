@@ -98,7 +98,7 @@ class VoucherController extends GxController {
                 $max = $voucher->max + 1;
                 ini_set('memory_limit', '-1');
                 
-                if ($_POST['beneficiary-grid_c7_all'] == "1") {
+                if (isset($_POST['beneficiary-grid_c7_all']) && $_POST['beneficiary-grid_c7_all'] == "1") {
                     $criteria3 = new CDbCriteria;
                     $model->setAttributes($_POST['Beneficiary']);
                     $criteria3->compare('registration_code', $model->registration_code, true);
@@ -150,6 +150,16 @@ class VoucherController extends GxController {
                             $max++;
                             $voucher->insert();
                             $voucher->save();
+                            $this->widget('application.extensions.qrcode.QRCodeGenerator',array(
+                                'data' => $voucher->code ,
+                                'filename' => $beneficiary->registration_code . "#".$distributionVoucher->code.".png",
+                                'filePath' => Yii::app()->params['VOUCHERS_QR_PATH'],
+                                'subfolderVar' => false,
+                                'matrixPointSize' => 5,
+                                'displayImage'=>true, // default to true, if set to false display a URL path
+                                'errorCorrectionLevel'=>'L', // available parameter is L,M,Q,H
+                                'matrixPointSize'=>4, // 1 to 10 only
+                            ));
                         }
                     }
                 }
